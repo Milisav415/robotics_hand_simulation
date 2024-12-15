@@ -2,6 +2,8 @@
 
 This project simulates a robotic hand using the PyBullet physics engine and provides a graphical interface for real-time control and visualization. The system models a KUKA IIWA robotic arm, enabling users to interact with it through a GUI and set the tool center point (TCP) positions dynamically.  
 
+<img src="robot_hand_pic.png" width="800" height="512">
+
 ## Key Features  
 
 - **Real-Time Simulation**  
@@ -21,8 +23,6 @@ This project simulates a robotic hand using the PyBullet physics engine and prov
 
 - **Camera Integration**  
   - A virtual camera mounted on the robotic arm provides real-time images of the workspace.
-
-<img src="robot_hand_pic.png" width="800" height="512">
 
 ## Technologies Used  
 
