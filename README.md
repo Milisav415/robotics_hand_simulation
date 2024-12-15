@@ -22,6 +22,8 @@ This project simulates a robotic hand using the PyBullet physics engine and prov
 - **Camera Integration**  
   - A virtual camera mounted on the robotic arm provides real-time images of the workspace.
 
+<img src="robot_hand_pic.png" width="800" height="512">
+
 ## Technologies Used  
 
 - **Programming Language:** Python  
